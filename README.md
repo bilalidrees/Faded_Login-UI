@@ -1,3 +1,6 @@
 # Login UI with fade animation
 
-![git gif blender](https://user-images.githubusercontent.com/58117224/128602519-535f9c26-e5a6-4ad3-8642-e066d4873a72.gif)
+
+
+https://user-images.githubusercontent.com/36483283/148640492-d58500f2-8914-4ebd-b30e-ef0713efe34e.mp4
+
